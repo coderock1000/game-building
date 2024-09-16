@@ -6,7 +6,7 @@ window = pygame.display.set_mode((800, 600))
 pygame.display.set_caption("Moving Rectangle")
 
 WHITE = (255, 255, 255)
-GREEN = (0, 255, 0)
+GREEN = (255, 0, 0)
 
 rect_x = 300
 rect_y = 250
